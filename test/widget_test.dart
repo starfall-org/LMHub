@@ -6,7 +6,7 @@
 // tree, read text, and verify that the values of widget properties are correct.
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:lmhub/src/app.dart';
+import 'package:lmhub/app.dart';
 
 void main() {
   testWidgets('App smoke test', (WidgetTester tester) async {
